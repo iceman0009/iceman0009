@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 470" role="img">
+<defs><style>
+body{font-family:monospace}.bg{fill:#050805;stroke:#39ff88;stroke-width:2}
+.t{font:14px monospace;fill:#39ff88}.l{font:15px monospace;fill:#d9ffe7;opacity:0;animation:in .6s forwards}
+@keyframes in{to{opacity:1}}
+</style></defs>
+<rect class="bg" x="1" y="1" width="578" height="468" rx="12"/>
+<text class="t" x="20" y="28">abhi@github:~$ neofetch</text>
+<text class="l" style="animation-delay:.3s" x="24" y="70">OS       : Cyber Security Student</text>
+<text class="l" style="animation-delay:.6s" x="24" y="102">Name     : Abhijeet Singh</text>
+<text class="l" style="animation-delay:.9s" x="24" y="134">Role     : Developer / Builder</text>
+<text class="l" style="animation-delay:1.2s" x="24" y="166">Focus    : Cyber Security</text>
+<text class="l" style="animation-delay:1.5s" x="24" y="198">Learning : Python • Linux • Networking</text>
+<text class="l" style="animation-delay:1.8s" x="24" y="230">Tools    : Git • GitHub • VS Code</text>
+<text class="l" style="animation-delay:2.1s" x="24" y="262">Status   : Open to internships</text>
+<text class="l" style="animation-delay:2.4s" x="24" y="294">Location : India</text>
+<text class="l" style="animation-delay:2.7s" x="24" y="340">──────────────────────────────────</text>
+<text class="l" style="animation-delay:3s" x="24" y="376">Turning ideas into secure solutions.</text>
+<text class="l" style="animation-delay:3.3s" x="24" y="420">abhi@github:~$ _</text>
+</svg>
